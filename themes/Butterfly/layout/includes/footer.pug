@@ -1,0 +1,17 @@
+#footer-wrap
+  - var now = new Date()
+  - var nowYear = now.getFullYear()
+  if theme.since && theme.since != nowYear
+    .copyright!= `&copy;${theme.since} - ${nowYear + ' '} <i id="heartbeat" class="fa fas fa-heartbeat"></i> ${config.author}`
+  else
+    .copyright!= `&copy;${nowYear + ' '} <i id="heartbeat" class="fa fas fa-heartbeat"></i> ${config.author}`
+  if theme.footer_copyright
+    .framework-info
+      a(href='https://hexo.io')
+        <img src="http://rdcib7cq1.hn-bkt.clouddn.com/Frame-Hexo-blue.svg">
+      a(href='https://github.com/jerryc127/hexo-theme-butterfly')
+        <img src="http://rdcib7cq1.hn-bkt.clouddn.com/Theme-Butterfly-6513df.svg">
+      <img src="http://rdcib7cq1.hn-bkt.clouddn.com/%E9%84%82ICP%E5%A4%87-2022009329%E5%8F%B7.svg">
+      <img src="http://rdcib7cq1.hn-bkt.clouddn.com/Copyright-BY--NC--SA%204.svg">
+
+<head><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/HCLonely/images@master/others/heartbeat.min.css"></head>
