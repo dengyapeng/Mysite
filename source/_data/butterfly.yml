@@ -35,9 +35,8 @@ requirement5: 有一定数量的原创文章，建站一周以上（大佬可以
 requirement6: 如果你想联系我，在About页面中有我的相关联系方式
 myInfo: My Blog Info
 info1: 'name: 亚鹏的技术博客'
-info2: 'link: https://yangchaoyi.vip/'
-info3: 'avatar: https://dypimages-1258774270.cos.ap-shanghai.myqcloud.com/paiDaXing.jpeg'
-info4: 'descr: 态度决定一切，细节决定成败，DayDayUp!'
+info2: 'avatar: https://dypimages-1258774270.cos.ap-shanghai.myqcloud.com/paiDaXing.jpeg'
+info3: 'descr: 态度决定一切，细节决定成败，DayDayUp!'
 
 # Code Blocks (代碼相關)
 # --------------------------------------
@@ -110,7 +109,7 @@ favicon: /img/favicon.png
 
 # Avatar (頭像)
 avatar:
-  img: http://rdcib7cq1.hn-bkt.clouddn.com/paiDaXing.jpeg
+  img: https://dypimages-1258774270.cos.ap-shanghai.myqcloud.com/paiDaXing.jpeg
   effect: false # 頭像會一直轉圈
 
 # the banner image of home page

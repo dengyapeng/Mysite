@@ -167,4 +167,4 @@ public class Item : ScriptableObject
 
 More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
 
-![](http://rdcib7cq1.hn-bkt.clouddn.com/paiDaXing.jpeg)
+![](https://dypimages-1258774270.cos.ap-shanghai.myqcloud.com/paiDaXing.jpeg)

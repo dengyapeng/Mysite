@@ -5,7 +5,7 @@ class:
     1:
       name: 亚鹏の技术博客
       link: https://chocolate.blog.csdn.net/
-      avatar: http://rdcib7cq1.hn-bkt.clouddn.com/paiDaXing.jpeg
+      avatar: https://dypimages-1258774270.cos.ap-shanghai.myqcloud.com/paiDaXing.jpeg
       descr: 学如逆水行舟，不进则退
       color: "#D2691E"
       custom: link_custom #动画样式
@@ -20,7 +20,7 @@ class2:
     1:
       name: 亚鹏の技术博客
       link: https://chocolate.blog.csdn.net/
-      avatar: https://cdn.jsdelivr.net/gh/Chocolate1999/cdn/img/avatar.png
+      avatar: https://dypimages-1258774270.cos.ap-shanghai.myqcloud.com/paiDaXing.jpeg
       descr: 学如逆水行舟，不进则退
       
 class3:
@@ -30,7 +30,7 @@ class3:
     1:
       name: 未知1
       link: https://chocolate.blog.csdn.net/
-      avatar: https://cdn.jsdelivr.net/gh/Chocolate1999/cdn/img/avatar1.png
+      avatar: https://dypimages-1258774270.cos.ap-shanghai.myqcloud.com/paiDaXing.jpeg
       descr: test
 
 class4:
