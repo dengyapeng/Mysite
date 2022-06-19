@@ -104,7 +104,8 @@ theme: Butterfly
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/dengyapeng/dengyapeng.github.io.git
+  # repo: https://github.com/dengyapeng/dengyapeng.github.io.git
+  repo: root@43.142.79.165:/home/git/blog.git
   branch: master
 
 # bilibili番剧列表配置
