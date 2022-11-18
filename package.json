@@ -16,7 +16,7 @@
     "hexo-abbrlink": "^2.0.5",
     "hexo-bilibili-bangumi": "^1.1.10",
     "hexo-deployer-git": "^3.0.0",
-    "hexo-douban": "^1.1.3",
+    "hexo-douban": "^2.1.0",
     "hexo-generator-archive": "^1.0.0",
     "hexo-generator-calendar": "git://github.com/howiefh/hexo-generator-calendar.git",
     "hexo-generator-category": "^1.0.0",
